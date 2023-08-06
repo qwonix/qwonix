@@ -18,7 +18,7 @@ This year I graduated with honours from college SUAI with a specialty «Programm
 ## Stack
 * Java, Spring Framework (Boot, Web, Security, Data)
 * PostgreSQL, MySQL, Hibernate/JOOQ, Liquibase/Flyway
-## Git, Maven, JUnit
+* Git, Maven, JUnit, Mockito
 
 ## My projects
 * [Fox Whiskers API](https://github.com/qwonix/fox-whiskers-api) - 
