@@ -9,7 +9,7 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-I'm back-end developer from 🏙️ St. Petersburg, interested in developing server-side applications.
+I'm back-end developer from St. Petersburg, interested in developing server-side applications.
 
 This year I graduated with honours from college SUAI with a specialty «Programmer».
 
@@ -25,11 +25,11 @@ This year I graduated with honours from college SUAI with a specialty «Programm
 Spring RESTful service for pizzeria
 * [Fox Whiskers](https://github.com/qwonix/fox-whiskers) - 
 Android App for a pizzeria created as part of the thesis work
-* [Rentucha Android App + Spring Boot REST API](https://github.com/qwonix/rentucha) - 
+* [Rentucha Android App + Spring Boot REST API](https://github.com/qwonix/rentucha) – 
 Android App created as part of the course work on the discipline «Mobile applications development»
-* [Movie Player Bot](https://github.com/qwonix/tg-movie-player-bot) - [Movie Player Bot]. 
+* [Movie Player Bot](https://github.com/qwonix/tg-movie-player-bot) – 
 Telegram bot for watching TV series, developed on pure Java 8
-* [Rental Calculator](https://github.com/qwonix/rental-calculator) - [Rental Calculator]. 
+* [Rental Calculator](https://github.com/qwonix/rental-calculator) – 
 A small JavaFX application that makes it easy to calculate daily rentals.
 
 ## Github Stats
