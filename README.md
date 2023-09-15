@@ -8,6 +8,9 @@
   <a href="https://career.habr.com/qwonix">
       <img src="https://img.shields.io/badge/Хабр-gray.svg?style=for-the-badge&logo=habr&logoColor=white" />
   </a>
+  <a href="https://spb.hh.ru/resume/305f36c8ff0c265ce30039ed1f59685735706f">
+      <img src="https://img.shields.io/badge/HH.ru-red.svg?style=for-the-badge&logo=hh&logoColor=white" />
+  </a>
 </p>
 
 <h1 style="text-align: center;">Hi there, I'm <a href="https://t.me/baganovs" target="_blank">Roman Kulakov</a>👋</h1>
