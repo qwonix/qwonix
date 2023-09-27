@@ -28,8 +28,6 @@
 
 This year I graduated with honours from State University of Aerospace Instrumentation college with a specialty «Software Developer».
 
-💼 Looking for a job or internship.
-
 ## Skills
 
 * Java 8-20, Spring Framework (Boot, Web, Security, Data)
